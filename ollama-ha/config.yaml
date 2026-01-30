@@ -2,7 +2,7 @@ name: "Ollama"
 slug: "ollama-ha"
 version: "0.2.4"
 description: "Run Ollama LLM server locally on your Home Assistant instance."
-url: "https://github.com/qlex003/ollama-ha-qlex"
+url: "https://github.com/peyanski/ollama-ha"
 startup: services
 init: false
 image: ghcr.io/qlex003/{arch}-ollama-ha
